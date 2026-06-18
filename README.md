@@ -1,5 +1,9 @@
 <div align="center">
-  <h1>Hi there, I'm Anzal Khan 👋</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=header&text=Anzal%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <br>
+
+<div align="center">
+  <!-- <h1>Hi there, I'm Anzal Khan 👋</h1> -->
   <h3>Full-Stack Developer | Data Enthusiast | AI Integrator</h3>
   <img src="https://komarev.com/ghpvc/?username=AnzalKhan16&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
@@ -45,4 +49,7 @@ I am a passionate software developer with a strong interest in building scalable
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <!-- You can add more links like LinkedIn, Twitter, Portfolio here -->
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0072ff,100:00c6ff&section=footer" width="100%"/>
 </div>
