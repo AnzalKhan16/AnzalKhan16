@@ -22,7 +22,6 @@ I am a passionate software developer with a strong interest in building scalable
 
 - **[AI Career Navigator](https://github.com/AnzalKhan16/ai-career-navigator)** - A full-stack AI-powered career roadmap generator using Python FastAPI, React/Node.js, and Google Gemini API.
 - **[Smart Medical Triage](https://github.com/AnzalKhan16/smart-medical-triage)** - An AI-powered medical triage and emergency risk prediction system built with Python, XGBoost, and Streamlit.
-- **[Campus Quest](https://github.com/AnzalKhan16/campus-quest)** - Gamified student learning platform backend API built with Spring Boot.
 - **[100 Days of DSA](https://github.com/AnzalKhan16/100-Days-of-DSA)** - 100 Days of DSA Challenge containing daily LeetCode problems, optimized solutions, and notes in C++.
 - **[NayePankh Data Analyst Assessment](https://github.com/AnzalKhan16/nayepankh-data-analyst-assessment)** - An interactive data analytics dashboard and reporting tool built with Streamlit and Python.
 - **[Process Scheduler Visualizer](https://github.com/AnzalKhan16/process-scheduler-visualizer)** - Interactive Process Scheduling Algorithm Visualizer and Comparative Analysis Tool built with React and Python.
